@@ -14,7 +14,7 @@ Welcome to my personal portfolio website!
 I'm a **junior Machine Learning engineer** passionate about building smart, data-driven solutions.
 
 ## 🔗 Live Demo
-👉 [View Website](https://magda.github.io/)
+👉 [View Website](https://magda-ahmed.my.canva.site/)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,8 +32,8 @@ I'm a **junior Machine Learning engineer** passionate about building smart, data
 - 💡 *(More projects coming soon...)*
 
 ## 📫 Contact Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)
-- 📧 [Email](mailto:you@example.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/magda-ahmed-539006238/)
+- 📧 [Email](magdaeisaaz1188@gmail.com)
 
 ---
 
