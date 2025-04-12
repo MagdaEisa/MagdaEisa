@@ -14,11 +14,11 @@ Welcome to my personal portfolio website!
 I'm a **junior Machine Learning engineer** passionate about building smart, data-driven solutions.
 
 ## 🔗 Live Demo
-👉 [View Website](https://magda-ahmed.my.canva.site/)
+ [View Website](https://magda-ahmed.my.canva.site/)
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
-### 📌 Languages & Libraries
+###  Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
@@ -29,38 +29,39 @@ I'm a **junior Machine Learning engineer** passionate about building smart, data
 ![Seaborn](https://img.shields.io/badge/Seaborn-1E4E73?style=for-the-badge&logo=python)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 Skills & Concepts
+###  Skills & Concepts
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=google)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge&logo=openai)  
 ![NLP](https://img.shields.io/badge/NLP-ff69b4?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E76A8?style=for-the-badge&logo=codesignal)  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FBCA04?style=for-the-badge&logo=chatgpt&logoColor=black)
 
-### 📊 Data Visualization
+###  Data Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 💾 Databases
+###  Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Others
+###  Others
 ![MLOps](https://img.shields.io/badge/MLOps-006400?style=for-the-badge&logo=azuredevops&logoColor=white)  
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 
-## 📂 Projects
-- 🧠 **Image Classifier using CNN**
-- 📈 **Stock Price Predictor**
-- 📧 **Spam Detection with NLP**
-- 💡 *(More projects coming soon...)*
+##  Projects
+-  **Image processing tool**
+-  **Taitanic**
+-  **Weather Classification**
+-  **Google Trends**
+-  *(More projects coming soon...)*
 
-## 🎓 Education
+##  Education
 **Bachelor of Computer Science (2021–2025)**  
 *Akhbar Alyoum Academy*
 
-## 💼 Internship
+##  Internship
 **DEPI (Sep 2024 – Present)**  
 *AI & Data Science Track*
 
-## 📫 Contact Me
+##  Contact Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/magda-ahmed-539006238/)
 - 📧 [Email](mailto:magdaeisaaz1188@gmail.com)
 
