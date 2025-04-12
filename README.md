@@ -25,18 +25,46 @@ I'm a **junior Machine Learning engineer** passionate about building smart, data
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1E4E73?style=for-the-badge&logo=python)
 
+## 💡 Skills
+- **Machine Learning**: Supervised & Unsupervised Learning  
+- **Deep Learning**: Computer Vision, NLP, PyTorch  
+- **Data Science**: Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Data Visualization**: Tableau  
+- **Databases**: SQL  
+
 ## 📂 Projects
 - 🧠 **Image Classifier using CNN**
 - 📈 **Stock Price Predictor**
 - 📧 **Spam Detection with NLP**
 - 💡 *(More projects coming soon...)*
 
+## 🎓 Education
+**Bachelor of Computer Science (2021–2025)**  
+*Akhbar Alyoum Academy*
+
+## 💼 Internship
+**DEPI (Sep 2024 – Present)**  
+*AI & Data Science Track*
+
+## 📚 Courses
+
+### AI & Data Science
+- Introduction to Data Science  
+- Using Python for Data Science and AI  
+- Machine Learning and Operations (MLOps)  
+- Prompt Engineering  
+
+### Software Engineering
+- Agile Software Development  
+- Requirement Engineering System  
+- Modeling Design and Implementation  
+
 ## 📫 Contact Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/magda-ahmed-539006238/)
-- 📧 [Email](magdaeisaaz1188@gmail.com)
+- 📧 [Email](mailto:magdaeisaaz1188@gmail.com)
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> 
