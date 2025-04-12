@@ -31,11 +31,6 @@ I'm a **junior Machine Learning engineer** passionate about building smart, data
 - 📧 **Spam Detection with NLP**
 - 💡 *(More projects coming soon...)*
 
-## 📊 Fun with Data Visualizations
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Graph Animation" />
-</p>
-
 ## 📫 Contact Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)
 - 📧 [Email](mailto:you@example.com)
